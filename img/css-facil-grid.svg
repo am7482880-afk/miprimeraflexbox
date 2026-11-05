@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect x="10" y="10" width="380" height="280" rx="22" fill="#FFF8EC"/>
+  <text x="30" y="44" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#C90E4B">CSS FÁCIL · 04</text>
+  <text x="30" y="74" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" fill="#3A1020">Cuadrículas con grid</text>
+
+  <rect x="40" y="92" width="320" height="118" rx="12" fill="#FFFFFF" stroke="#FFCA5B" stroke-width="2"/>
+  <rect x="48" y="100" width="96" height="47" rx="8" fill="#FFDC5B"/>
+  <rect x="152" y="100" width="96" height="47" rx="8" fill="#FFB75B"/>
+  <rect x="256" y="100" width="96" height="47" rx="8" fill="#FF845B"/>
+  <rect x="48" y="155" width="200" height="47" rx="8" fill="#FF525B"/>
+  <rect x="256" y="155" width="96" height="47" rx="8" fill="#C90E4B"/>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" text-anchor="middle">
+    <text x="96" y="130" fill="#3A1020">1</text>
+    <text x="200" y="130" fill="#3A1020">2</text>
+    <text x="304" y="130" fill="#3A1020">3</text>
+    <text x="148" y="185" fill="#FFFFFF">4 (ocupa 2)</text>
+    <text x="304" y="185" fill="#FFFFFF">5</text>
+  </g>
+
+  <rect x="30" y="222" width="340" height="56" rx="14" fill="#3A1020"/>
+  <text x="48" y="245" font-family="Consolas, Courier New, monospace" font-size="13" fill="#FFDC5B">display<tspan fill="#FFFFFF">:</tspan> <tspan fill="#FF845B">grid</tspan><tspan fill="#FFFFFF">;</tspan></text>
+  <text x="48" y="265" font-family="Consolas, Courier New, monospace" font-size="13" fill="#FFDC5B">grid-template-columns<tspan fill="#FFFFFF">:</tspan> <tspan fill="#FF845B">1fr 1fr 1fr</tspan><tspan fill="#FFFFFF">;</tspan></text>
+</svg>

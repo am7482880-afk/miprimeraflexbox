@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect x="10" y="10" width="380" height="280" rx="22" fill="#FFF8EC"/>
+  <text x="30" y="44" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#C90E4B">CSS FÁCIL · 05</text>
+  <text x="30" y="74" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" fill="#3A1020">Elige tu tipografía</text>
+
+  <rect x="30" y="92" width="106" height="116" rx="14" fill="#FFFFFF" stroke="#FFCA5B" stroke-width="2"/>
+  <text x="83" y="162" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="48" fill="#C90E4B">Aa</text>
+  <text x="83" y="194" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#6B3A48">serif</text>
+
+  <rect x="147" y="92" width="106" height="116" rx="14" fill="#FFFFFF" stroke="#FFCA5B" stroke-width="2"/>
+  <text x="200" y="162" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#FF6B5B">Aa</text>
+  <text x="200" y="194" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#6B3A48">sans-serif</text>
+
+  <rect x="264" y="92" width="106" height="116" rx="14" fill="#FFFFFF" stroke="#FFCA5B" stroke-width="2"/>
+  <text x="317" y="162" text-anchor="middle" font-family="Courier New, Consolas, monospace" font-size="44" font-weight="700" fill="#E62253">Aa</text>
+  <text x="317" y="194" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#6B3A48">monospace</text>
+
+  <rect x="30" y="226" width="340" height="48" rx="24" fill="#3A1020"/>
+  <text x="200" y="255" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="15" fill="#FFDC5B">font-family<tspan fill="#FFFFFF">:</tspan> <tspan fill="#FF845B">Georgia, serif</tspan><tspan fill="#FFFFFF">;</tspan></text>
+</svg>
